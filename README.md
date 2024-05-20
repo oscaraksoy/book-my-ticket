@@ -4,6 +4,6 @@ This all in one travel ticket aka smart card will facilitate smooth scale to dif
 
 ## Contributors:
 <ul>
+     <li>Brijesh Reddy</li>
      <li>StrongEffort</li>
-     <li>Arpita</li>
 </ul>
